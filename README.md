@@ -1,10 +1,8 @@
 ## Mark Hughes
-**Cloud Architect. Azure & Microsoft 365.**
+**Senior Solutions Consultant @ Netcentrix · Microsoft Certified Expert**
 
-I design and deliver cloud infrastructure for organisations that depend on it, from NHS bodies and councils to mid-market businesses. 15+ years in IT: I started on the helpdesk and now lead projects end to end.
+I help organisations move to Azure and Microsoft 365, and actually secure it once they're there. Over 15+ years I've gone from the helpdesk to solutions architecture, mostly across the public sector (NHS, local government, education) and managed service providers, so I design for real budgets and constraints, not lab conditions.
 
-I write about it at [Cloud Architecture](https://cloud-architecture.co.uk): secure Microsoft 365, properly. The portal steps, the reasoning, and the PowerShell to automate it, mapped to CIS, NIST, ISO 27001, NCSC and NIS2.
+Most of what I learn ends up on [Cloud Architecture](https://cloud-architecture.co.uk), where I document how to build and harden a Microsoft 365 tenant properly: the portal steps, the reasoning behind each one, and the PowerShell to automate it.
 
-**Currently:** Senior Solutions Consultant at a Microsoft Partner
-
-**Certs:** Azure Solutions Architect Expert · Microsoft 365 Enterprise Administrator Expert · TOGAF · MCT · 30+ more
+**Certs:** Azure Solutions Architect Expert · Microsoft 365 Administrator Expert · TOGAF 9 · 30+ more
